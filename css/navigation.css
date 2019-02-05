@@ -17,6 +17,10 @@
   color: #c1c1c1;
 }
 
+.tab-bar .tab-bar_tab:hover {
+  transform: scale(1.1);
+}
+
 .tab-bar .tab-bar_tab i {
   display: block;
   margin-bottom: 5px;
